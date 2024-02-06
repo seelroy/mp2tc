@@ -1,5 +1,5 @@
 
-# mp2tc
+# mp2tc - MakePlace 2 Teamcraft
 
 A Python script to convert MakePlace furniture lists into importable Teamcraft URLs. URL is printed to terminal and exported to a text file.
 
